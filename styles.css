@@ -1,0 +1,18 @@
+#hex polygon {
+    stroke-dasharray: 400; /* Total length of the path */
+    stroke-dashoffset: 400; /* Start with full length to hide the path */
+    animation: fillAnimation 3s forwards; /* Animation duration and timing */
+}
+
+@keyframes fillAnimation {
+    0% {
+        stroke-dashoffset: 400; /* Start with full length */
+    }
+    25% {
+        stroke-dashoffset: 350; /* Reach halfway at 50% of the animation */
+    }
+
+    100% {
+        stroke-dashoffset: 0; /* Fill the path completely at the end */
+    }
+}
