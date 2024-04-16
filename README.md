@@ -1,4 +1,4 @@
-![](https://github.com/Caden0002/DESIGNLoadingScreenCounter/blob/main/loadingscreenanimate.gif)
+![](https://github.com/Caden0002/DESIGNLoadingScreenCounter/blob/main/loadingpageanimate.gif)
 #### How to Install and Run the Project ####
 1. Open Terminal at the project's CD<br />
 2. npm install<br />
