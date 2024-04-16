@@ -6,7 +6,7 @@
 3. npm run dev<br />
 
 # DESIGNLoadingScreenCounter
-This project creates a reusable contact page that stores user's input in a google sheet.<br />
+This project creates an animated loading page that also uses react-spring for number coutner.<br />
 
 Learn more about loading page here:<br />
 https://medium.com/@caden0002/how-to-easily-create-an-animated-count-loading-screen-with-react-spring-327ce6d68180
